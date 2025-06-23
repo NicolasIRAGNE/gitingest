@@ -18,7 +18,7 @@ The goal of this project is to create a tool that can be used to build these too
 
 I view it a "context builder", as coined (afaik) by Andrej Karpathy in his [keynote at AI Startup School](https://x.com/ycombinator/status/1935496106957488566).
 
-image.png
+![image](https://github.com/user-attachments/assets/595e8486-93c4-4685-8357-70ec2cae89c0)
 
 ## Features
 
