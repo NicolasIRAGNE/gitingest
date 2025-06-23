@@ -41,6 +41,8 @@ This is a key feature, as it allows the user (or LLM agent) to quickly understan
 
 Generating summaries for each file can be a very expensive operation, and can be counter-productive in case of isolated tasks.
 
+Files should be cached cross-repository, so that the same file present in multiple repositories and branches is only processed once.
+
 By hosting a SaaS service, we can leverage the cache of all the users to provide a fast and efficient service.
 
 ### File selection
